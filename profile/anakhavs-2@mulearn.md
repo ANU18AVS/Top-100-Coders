@@ -1,0 +1,31 @@
+# ANAKHA V S
+
+### 
+
+>-Graduted B tech in Computer Science and Engineering from LBS Institute Of Technology for Women Trivandrum in year 2023.
+>-I am studying about new technologies.
+
+
+## Portfolio Highlights
+
+### My Projects
+1.stock price prediction using deep neural network
+
+#### Leadership and Influence:
+-I have taken part in volunteering activites.one example is campus ambassodor program conducted by government engineering college bartonhill.
+
+#### Networking:
+
+- i enjoy connecting with new people and share about new ideas and perspectives.
+
+#### Career Plan:
+
+- GTech Mulearn in my opinion helps improve my abilites and skills
+
+#### Thoughts on Kerala's Tech Ecosystem:
+
+- digital ecosystem should develop various startup and conduct free courses on latest technologies such as artifical intelligence and data science for young studnts.
+
+#### Highly Visible Technical Content:
+
+- Highlight any highly visible technical blog posts, articles, or video series you have created.
